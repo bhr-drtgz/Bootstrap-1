@@ -1,5 +1,8 @@
-# Bootstrap-1
 
-<h1>Çalışmalarımıza Devam Ediyoruz.</h1>
+<h1>Bootsrap Denemesi</h1>
+ Yaptıgımız proje odaklı çalışmalarla
+ pratikligimizi arttırıyoruz.
 
-![](Btsrp.gif)
+ <h2>EKRAN GİFİ</h2>
+
+ ![](Btsrp.gif)
