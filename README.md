@@ -2,4 +2,4 @@
 
 <h1>Çalışmalarımıza Devam Ediyoruz.</h1>
 
-![](Btsrp gif.gif)
+![](Btsrp.gif)
