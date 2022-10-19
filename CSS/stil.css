@@ -1,0 +1,41 @@
+    .hakkimizde{
+    background-color:#f2f2f2;
+    color:black;
+ }
+ .ayrac{
+    border: none;
+    border-top: 3px solid #343a40;
+    margin: 25px auto;
+    max-width:250px;
+ }
+ .igri{
+    color: #343a40;
+    position: relative;
+    top:-60px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+ }
+ .ibeyaz{
+   color: #343a40;
+   position: relative;
+   top:-60px;
+   font-size: 40px;
+   border: 10px solid white;
+   background-color: white;
+}
+.ekipcard>img:hover{
+   opacity: 0.8;
+   cursor: pointer;
+  }
+  .galeri{
+   background-color: #f2f2f2;
+  }
+ .figure:hover{
+      opacity: 0,8;
+   }
+   .briletişim{
+      border: 5px solid black;
+      width: 80%;
+      text-align: left;
+ 
